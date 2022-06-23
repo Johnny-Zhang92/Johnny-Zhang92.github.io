@@ -1,2 +1,1 @@
-[# Johnny-Zhang92.github.io](https://github.com/Johnny-Zhang92/resume)
-For html
+https://johnny-zhang92.github.io/resume/
